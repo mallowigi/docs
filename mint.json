@@ -5,6 +5,11 @@
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
   },
+  "colors": {
+    "primary": "#80cbc4",
+    "light": "#80cbc4",
+    "dark": "#80cbc4"
+  },
   "metadata": {
     "title": "Material Theme UI Docs",
     "viewport": "width=device-width, initial-scale=1, maximum-scale=1",

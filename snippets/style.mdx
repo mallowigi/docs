@@ -1,0 +1,64 @@
+export const CustomStyles = () => {
+setTimeout(() => {
+
+// Append style to head
+const style = document.createElement('style');
+// language=CSS
+style.innerHTML =
+:root {
+--mat-primary: #ffcb6b;
+--mat-primaryT: #ffcb6b70;
+--mat-accent: #009688;
+--mat-accentT: #00968870;
+--mat-accent2: #c792ea;
+--mat-accent2T: #c792ea70;
+--mat-background: #263238;
+--mat-foreground: #B0BEC5;
+--mat-text: #607D8B;
+--mat-selectBg: #546E7A;
+--mat-selectFg: #FFFFFF;
+--mat-accent-text: #FFFFFF;
+--mat-button: #2E3C43;
+--mat-second: #32424A;
+--mat-disabled: #415967;
+--mat-contrast: #1E272C;
+--mat-active: #314549;
+--mat-border: #2A373E;
+--mat-hl: #425B67;
+--mat-tree: #546E7A70;
+--mat-notif: #1E272C;
+--mat-excluded: #2E3C43;
+--mat-yellow: #ffcb6b;
+--mat-green: #c3e88d;
+--mat-cyan: #89ddff;
+--mat-blue: #82aaff;
+--mat-purple: #c792ea;
+--mat-red: #f07178;
+--mat-red2: #f07178;
+--mat-orange: #f78c6c;
+--mat-orange2: #f78c6c;
+--mat-gray: #546e7a;
+--mat-silver: #eeffff;
+--mat-black: #1E272C;
+}
+
+        :is(.dark) {
+            --primary: 0 150 136;
+            --primary-light: 0 150 136;
+            --primary-dark: 0 150 136;
+            --gray-400: 176 190 197;
+
+            .dark\\:bg-background-dark,
+            #sidebar,
+            #navbar {
+                background-color: var(--mat-contrast);
+            }
+
+        }
+    `;
+    document.head.appendChild(style);
+    }, 1);
+
+    return (<></>);
+
+};
