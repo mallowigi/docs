@@ -8,7 +8,11 @@
   "colors": {
     "primary": "#80cbc4",
     "light": "#80cbc4",
-    "dark": "#80cbc4"
+    "dark": "#80cbc4",
+    "background": {
+      "dark": "#1E272C",
+      "light": "#FAFAFA"
+    }
   },
   "metadata": {
     "title": "Material Theme UI Docs",
