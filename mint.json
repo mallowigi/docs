@@ -27,7 +27,6 @@
     "light": "#80cbc4",
     "dark": "#80cbc4"
   },
-  "backgroundImage": "/images/background.svg",
   "topbarLinks": [
     {
       "name": "What's New",
