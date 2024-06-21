@@ -93,9 +93,14 @@
     }
   ],
   "footerSocials": {
+    "website": "https://www.material-theme.com",
     "x": "https://x.com/AtomMaterialUI",
-    "twitter": "https://x.com/AtomMaterialUI",
     "github": "https://github.com/mallowigi/material-theme-issues",
     "slack": "https://join.slack.com/t/material-theme-ui/shared_invite/zt-4w78iblt-cHXYRYERpuGNbD~TqsD8rg"
+  },
+  "feedback": {
+    "thumbsRating": true,
+    "suggestEdit": true,
+    "raiseIssue": true
   }
 }
