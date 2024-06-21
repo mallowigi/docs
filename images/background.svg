@@ -27,7 +27,7 @@
 
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" style="isolation:isolate"
      viewBox="0 0 768 768" width="1024" height="1024">
-    <g>
+    <g opacity="0.5">
         <circle vector-effect="non-scaling-stroke" cx="384" cy="384" r="192" fill="#263238"/>
         <defs>
             <filter id="Yb6dtizG9r6phDDsjrWTYYTBMxa1Fqdy" x="-200%" y="-200%" width="400%" height="400%"
