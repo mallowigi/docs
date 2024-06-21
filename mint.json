@@ -3,12 +3,16 @@
   "name": "Material Theme Docs",
   "logo": {
     "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg",
-    "href": "https://www.material-theme.com"
+    "light": "/logo/light.svg"
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#009688"
+    "primary": "#009688",
+    "background": {
+      "dark": "#263238",
+      "light": "#FAFAFA"
+    },
+    "backgroundImage": "/images/background.svg"
   },
   "topbarLinks": [
     {
@@ -16,8 +20,8 @@
       "url": "what-s-new"
     },
     {
-      "name": "Slack",
-      "url": "https://join.slack.com/t/material-theme-ui/shared_invite/zt-4w78iblt-cHXYRYERpuGNbD~TqsD8rg"
+      "name": "Pricing",
+      "url": "pricing"
     }
   ],
   "topbarCtaButton": {
@@ -31,32 +35,28 @@
     },
     {
       "name": "Configuration",
-      "url": "getting-started"
+      "url": "configuration"
     },
     {
       "name": "Reference",
       "url": "reference"
-    },
-    {
-      "name": "Pricing",
-      "url": "pricing"
     }
   ],
   "anchors": [
     {
       "name": "Documentation",
       "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "url": "https://www.material-theme.com"
     },
     {
       "name": "Community",
       "icon": "slack",
-      "url": "https://mintlify.com/community"
+      "url": "https://join.slack.com/t/material-theme-ui/shared_invite/zt-4w78iblt-cHXYRYERpuGNbD~TqsD8rg"
     },
     {
-      "name": "Blog",
+      "name": "Changelog",
       "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "url": "changelog"
     }
   ],
   "navigation": [
@@ -95,8 +95,9 @@
     }
   ],
   "footerSocials": {
-    "x": "https://x.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "x": "https://x.com/AtomMaterialUI",
+    "twitter": "https://x.com/AtomMaterialUI",
+    "github": "https://github.com/mallowigi/material-theme-issues",
+    "slack": "https://join.slack.com/t/material-theme-ui/shared_invite/zt-4w78iblt-cHXYRYERpuGNbD~TqsD8rg"
   }
 }
