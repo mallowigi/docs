@@ -3,23 +3,23 @@
   "name": "Material Theme Docs",
   "logo": {
     "dark": "/logo/dark.svg",
-    "light": "/logo/dark.svg",
+    "light": "/logo/light.svg",
     "href": "https://www.material-theme.com"
   },
   "favicon": "/favicon.svg",
   "colors": {
     "primary": "#009688"
   },
-  "topbarLinks": {
-    "docs": {
+  "topbarLinks": [
+    {
       "name": "What's New",
       "url": "what-s-new"
     },
-    "community": {
+    {
       "name": "Slack",
       "url": "https://join.slack.com/t/material-theme-ui/shared_invite/zt-4w78iblt-cHXYRYERpuGNbD~TqsD8rg"
     }
-  },
+  ],
   "topbarCtaButton": {
     "name": "GitHub",
     "url": "https://github.com/mallowigi/material-theme-issues"
