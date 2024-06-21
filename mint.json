@@ -5,6 +5,33 @@
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
   },
+  "metadata": {
+    "title": "Material Theme UI Docs",
+    "description": "The Material Theme plugin is a plugin for JetBrains IDEs (IntelliJ, PhpStorm, WebStorm, Android Studio, etc...) which completely redesigns the UI with a beautiful and configurable Material Design UI. This is the plugin's documentation page which presents and explains the different features provided by the plugin.",
+    "author": "Elior Boukhobza (Mallowigi)",
+    "keywords": [
+      "documentation",
+      "material",
+      "theme",
+      "mintlify",
+      "material design",
+      "material theme",
+      "material you",
+      "jetbrains",
+      "material theme",
+      "plugin",
+      "mallowigi"
+    ],
+    "og:site_name": "Material Theme UI Docs",
+    "og:image": "/images/meta/brand.png",
+    "og:description": "The Material Theme plugin is a plugin for JetBrains IDEs (IntelliJ, PhpStorm, WebStorm, Android Studio, etc...) which completely redesigns the UI with a beautiful and configurable Material Design UI. This is the plugin's documentation page which presents and explains the different features provided by the plugin.",
+    "twitter:site": "@AtomMaterialUI",
+    "twitter:creator": "@mallowigi",
+    "twitter:card": "summary_large_image",
+    "twitter:title": "Material Theme UI Docs",
+    "twitter:description": "The Material Theme plugin is a plugin for JetBrains IDEs (IntelliJ, PhpStorm, WebStorm, Android Studio, etc...) which completely redesigns the UI with a beautiful and configurable Material Design UI. This is the plugin's documentation page which presents and explains the different features provided by the plugin.",
+    "twitter:image": "/images/meta/brand.png"
+  },
   "favicon": "/favicon.svg",
   "colors": {
     "primary": "#80cbc4",
