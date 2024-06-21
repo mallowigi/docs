@@ -3,9 +3,10 @@
   "name": "Material Theme Docs",
   "logo": {
     "dark": "/logo/dark.svg",
+    "light": "/logo/dark.svg",
     "href": "https://www.material-theme.com"
   },
-  "favicon": "/favicon.ico",
+  "favicon": "/favicon.svg",
   "colors": {
     "primary": "#009688"
   },
