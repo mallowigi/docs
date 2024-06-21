@@ -22,11 +22,6 @@
     "twitter:image": "/images/meta/brand.png"
   },
   "favicon": "/favicon.svg",
-  "colors": {
-    "primary": "#80cbc4",
-    "light": "#80cbc4",
-    "dark": "#80cbc4"
-  },
   "topbarLinks": [
     {
       "name": "What's New",
@@ -70,6 +65,11 @@
       "name": "Changelog",
       "icon": "newspaper",
       "url": "changelog"
+    },
+    {
+      "name": "Support Us",
+      "icon": "circle-dollar-to-slot",
+      "url": "https://material-theme.com/docs/support-us/"
     }
   ],
   "navigation": [
