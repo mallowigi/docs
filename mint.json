@@ -10,19 +10,7 @@
     "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
     "description": "The Material Theme plugin is a plugin for JetBrains IDEs (IntelliJ, PhpStorm, WebStorm, Android Studio, etc...) which completely redesigns the UI with a beautiful and configurable Material Design UI. This is the plugin's documentation page which presents and explains the different features provided by the plugin.",
     "author": "Elior Boukhobza (Mallowigi)",
-    "keywords": [
-      "documentation",
-      "material",
-      "theme",
-      "mintlify",
-      "material design",
-      "material theme",
-      "material you",
-      "jetbrains",
-      "material theme",
-      "plugin",
-      "mallowigi"
-    ],
+    "keywords": "documentation,material,theme,docs,material design,material theme,material you,jetbrains,material theme,plugin,mallowigi",
     "og:site_name": "Material Theme UI Docs",
     "og:image": "/images/meta/brand.png",
     "og:description": "The Material Theme plugin is a plugin for JetBrains IDEs (IntelliJ, PhpStorm, WebStorm, Android Studio, etc...) which completely redesigns the UI with a beautiful and configurable Material Design UI. This is the plugin's documentation page which presents and explains the different features provided by the plugin.",
@@ -51,9 +39,8 @@
     }
   ],
   "topbarCtaButton": {
-    "name": "GitHub",
-    "type": "github",
-    "url": "https://github.com/mallowigi/material-theme-issues"
+    "url": "https://github.com/mallowigi/material-theme-issues",
+    "type": "github"
   },
   "tabs": [
     {
@@ -134,9 +121,6 @@
     "raiseIssue": true
   },
   "analytics": {
-    "ga4": {
-      "measurementId": "ca-pub-2446436191403231"
-    },
     "mixpanel": {
       "projectToken": "ab773bb5ba50d6a2a35f0dabcaf7cd2c"
     }
