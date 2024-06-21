@@ -25,17 +25,17 @@
   "colors": {
     "primary": "#80cbc4",
     "light": "#80cbc4",
-    "dark": "#80cbc4"
+    "dark": "#80cbc4",
+    "background": {
+      "dark": "#1E272C",
+      "light": "#FAFAFA"
+    }
   },
   "backgroundImage": "/images/background.svg",
   "topbarLinks": [
     {
       "name": "What's New",
       "url": "what-s-new"
-    },
-    {
-      "name": "Pricing",
-      "url": "pricing"
     }
   ],
   "topbarCtaButton": {
@@ -54,6 +54,10 @@
     {
       "name": "Reference",
       "url": "reference"
+    },
+    {
+      "name": "Pricing",
+      "url": "pricing"
     }
   ],
   "anchors": [
