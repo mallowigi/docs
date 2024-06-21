@@ -10,20 +10,36 @@
   "colors": {
     "primary": "#009688"
   },
-  "topbarLinks": [
-    {
-      "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+  "topbarLinks": {
+    "docs": {
+      "name": "What's New",
+      "url": "what-s-new"
+    },
+    "community": {
+      "name": "Slack",
+      "url": "https://join.slack.com/t/material-theme-ui/shared_invite/zt-4w78iblt-cHXYRYERpuGNbD~TqsD8rg"
     }
-  ],
+  },
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "name": "GitHub",
+    "url": "https://github.com/mallowigi/material-theme-issues"
   },
   "tabs": [
     {
-      "name": "API Reference",
-      "url": "api-reference"
+      "name": "Getting Started",
+      "url": "getting-started"
+    },
+    {
+      "name": "Configuration",
+      "url": "getting-started"
+    },
+    {
+      "name": "Reference",
+      "url": "reference"
+    },
+    {
+      "name": "Pricing",
+      "url": "pricing"
     }
   ],
   "anchors": [
